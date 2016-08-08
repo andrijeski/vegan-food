@@ -18,3 +18,9 @@ While Omega 6 - LA (linoleic acid) and Omega 3 - ALA (alpha-linolenic acid) are 
 Useful reference table of common fat sources:
 
 ![Useful table with fats](http://www.aneggadayisok.ca/wp-content/uploads/2012/09/dietary-fat.png)
+
+
+Another useful table: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989356/table/t1-cjc26489/
+
+Omega-3 fatty acids in wild plants, nuts and seeds - PDF: http://sci-hub.cc/10.1046/j.1440-6047.11.s.6.5.x
+
