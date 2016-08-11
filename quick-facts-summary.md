@@ -4,6 +4,7 @@ This document tries to condense important parts of a vegan nutrition
 **Vitamins**
 
 B12 is required supplement. Everyone (even non-vegans) need to intake it regularily to avoid health issues.
+How much and how often? See here http://nutritionfacts.org/2011/08/30/3964/ (Dr. Michael Greger's blog)
 
 **Fatty acids**
 
