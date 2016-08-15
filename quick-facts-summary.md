@@ -29,12 +29,12 @@ Another useful nuts fact (source: http://primaltoad.com/macadamias/)
 
 **Omega 3 vs Omega 6 in Milligrams**
 
-Macadamias – 60 vs 360
-Almonds – 2 vs 3400
-Hazelnuts – 20 vs 2200
-Pistachios – 70 vs 3700
-Brazil Nuts – 5.1 vs 5800
-Cashews – 7 vs 2200
-Walnuts – 2500 vs 10,100
-Pine Nuts – 31 vs 9400
-Pecans – 280 vs 5800
+- Macadamias – 60 vs 360
+- Almonds – 2 vs 3400
+- Hazelnuts – 20 vs 2200
+- Pistachios – 70 vs 3700
+- Brazil Nuts – 5.1 vs 5800
+- Cashews – 7 vs 2200
+- Walnuts – 2500 vs 10,100
+- Pine Nuts – 31 vs 9400
+- Pecans – 280 vs 5800
