@@ -21,8 +21,20 @@ Useful reference table of common fat sources:
 
 ![Useful table with fats](http://www.aneggadayisok.ca/wp-content/uploads/2012/09/dietary-fat.png)
 
-
 Another useful table: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989356/table/t1-cjc26489/
 
 Omega-3 fatty acids in wild plants, nuts and seeds - PDF: http://sci-hub.cc/10.1046/j.1440-6047.11.s.6.5.x
 
+Another useful nuts fact (source: http://primaltoad.com/macadamias/)
+
+**Omega 3 vs Omega 6 in Milligrams**
+
+Macadamias – 60 vs 360
+Almonds – 2 vs 3400
+Hazelnuts – 20 vs 2200
+Pistachios – 70 vs 3700
+Brazil Nuts – 5.1 vs 5800
+Cashews – 7 vs 2200
+Walnuts – 2500 vs 10,100
+Pine Nuts – 31 vs 9400
+Pecans – 280 vs 5800
