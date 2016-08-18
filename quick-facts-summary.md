@@ -6,7 +6,7 @@ This document tries to condense important parts of a vegan nutrition
 B12 is required supplement. Everyone (even non-vegans) need to intake it regularily to avoid health issues.
 
 How much and how often? 
-"The easiest and most inexpensive way to get one’s B12 is to take at least 2,500 mcg (µg) of cyanocobalamin once each week, ideally as a chewable, sublingual, or liquid supplement (you can’t take too much–all you get is expensive pee)."
+*"The easiest and most inexpensive way to get one’s B12 is to take at least 2,500 mcg (µg) of cyanocobalamin once each week, ideally as a chewable, sublingual, or liquid supplement (you can’t take too much–all you get is expensive pee)."*
 
 See here http://nutritionfacts.org/2011/08/30/3964/ (Dr. Michael Greger's blog)
 
