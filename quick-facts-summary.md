@@ -52,6 +52,6 @@ Another useful nuts fact (source: http://primaltoad.com/macadamias/)
 
 Recommended spices for a daily intake are:
 
-- **Tumeric/Kurkuma** - Helps the body kill the cells programmed to be killed, therefore helps curing many types of cancer. One teaspon a day - every day is good enough.
+- **Turmeric/Kurkuma** - Helps the body kill the cells programmed to be killed, therefore helps curing many types of cancer. One teaspon a day - every day is good enough. Note: Consuming a bit of black pepper along with Turmeric will increase its bio availability. So do add black pepper in your turmeric meals.
 - **Cinnamon** - Since there is a toxin called coumarin in some cinnamon sources, the best source where no coumarin is found is Ceylon cinnamon. (Coumarin is banned as a food additive, but still can be found in Chinese cinnamon. There is not enough data for Vietnamese and Indonesian cinnamon, so it is better to buy Ceylon)
 - **Ginger** - Fresh is great, but powdered gingers works fine as well!
