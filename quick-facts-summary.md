@@ -1,4 +1,4 @@
-This document tries to condense important parts of a vegan nutrition
+This document tries to condense important parts of a vegan nutrition (nutrition in general) for the most optimal health.
 
 
 **Vitamins**
@@ -9,6 +9,11 @@ How much and how often?
 *"The easiest and most inexpensive way to get one’s B12 is to take at least 2,500 mcg (µg) of cyanocobalamin once each week, ideally as a chewable, sublingual, or liquid supplement (you can’t take too much–all you get is expensive pee)."*
 
 See here http://nutritionfacts.org/2011/08/30/3964/ (Dr. Michael Greger's blog)
+
+
+Vitamin D is required in most of the cases where people are not exposed to the light (most of the people fall in this category).
+
+Vegan supplements of Vitamin D can be taken in form of D2. (will add more info about this later on).
 
 **Fatty acids**
 
@@ -41,3 +46,12 @@ Another useful nuts fact (source: http://primaltoad.com/macadamias/)
 - Walnuts – 2500 vs 10,100
 - Pine Nuts – 31 vs 9400
 - Pecans – 280 vs 5800
+
+
+**Spices**
+
+Recommended spices for a daily intake are:
+
+- Tumeric/Kurkuma - Helps the body kill the cells programmed to be killed, therefore helps curing many types of cancer. One teaspon a day - every day is good enough.
+- Cinnamon - Since there is a toxin called coumarin in some cinnamon sources, the best source where no coumarin is found is Ceylon cinnamon. (Coumarin is banned as a food additive, but still can be found in Chinese cinnamon. There is not enough data for Vietnamese and Indonesian cinnamon, so it is better to buy Ceylon)
+- Ginger - Fresh is great, but powdered gingers works fine as well!
